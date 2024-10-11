@@ -1,2 +1,3 @@
 # profit-margin-plot
-The provided code is a python code designed to plot a graph that shows the profit margin for over 5 years. Below is the plotted graph of profit margin in percentage against years using pyplot module in the matplotlib python library.
+The provided code is a python code designed to plot a graph that shows the profit margin for BG Pharmacy and Health care limited over 5 years. It calculates the profit margin by subtracting expenses from revenues and then dividing the results by the revenues and multiplying by 100. Below is the plotted graph of profit margin in percentage against years using pyplot module in the matplotlib python library.
+<img src="profit-margin graph.png" alt="Result graph">
